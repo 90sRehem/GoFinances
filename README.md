@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/90sRehem/bootcamp-gostack-challenge-10">
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/90sRehem/bootcamp-gostack-challenge-10">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/90sRehem/bootcamp-gostack-challenge-10">
-  <a href="https://github.com/90sRehem/bootcamp-gostack-challenge-10/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/90sRehem/bootcamp-gostack-challenge-10">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/90sRehem/GoFinances">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/90sRehem/GoFinances">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/90sRehem/GoFinances">
+  <a href="https://github.com/90sRehem/GoFinances/commits/master">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/90sRehem/GoFinances">
   </a>
-   <a href="https://github.com/90sRehem/bootcamp-gostack-challenge-10/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/90sRehem/bootcamp-gostack-challenge-10">
+   <a href="https://github.com/90sRehem/GoFinances/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/90sRehem/GoFinances">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/90sRehem/bootcamp-gostack-challenge-10">
+  <img alt="License" src="https://img.shields.io/github/license/90sRehem/GoFinances">
 </p>
 
 <p align="center">
