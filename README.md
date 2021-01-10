@@ -33,7 +33,7 @@
 
 # <h1 align="center">![Go Finances](.github/goFinances_logo.svg)</h1>
 
-GoFinances é uma aplicação Mobile/Web com o objetivo de controlar suas finanças, permitindo que você cadastre entradas, saídas e categorize-as de uma forma organizada!
+GoFinances é uma aplicação Web com o objetivo de controlar suas finanças, permitindo que você cadastre entradas, saídas e categorize-as de uma forma organizada!
 
 <br />
 <p align="center">
